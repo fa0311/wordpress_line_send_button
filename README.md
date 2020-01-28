@@ -1,3 +1,3 @@
 # wordpress_line_send_button
 wordpressで使えるliffのプラグイン
-ディレクトリをwp-content/plugins/ 配下に配置してください
+ディレクトリをwp-content/plugins/ 配下にインストールしてください
