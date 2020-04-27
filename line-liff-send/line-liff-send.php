@@ -140,7 +140,7 @@ function send(text) {
 window.addEventListener("load",
 function (){
 	var line_liff_loop = 1;
-	while(line_liff_loop == line_liff_num){
+	while(line_liff_loop < line_liff_num){
 		const box = document.getElementById("liff-box"+line_liff_loop);
 		 if(liff.isInClient()){
 			 box.style.display ="block";
